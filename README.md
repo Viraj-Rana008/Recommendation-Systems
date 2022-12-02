@@ -1,5 +1,5 @@
 # Recommendation-Systems
-A recommender system is a system which predicts ratings a user might give to a specific item. These predictions will then be ranked and returned back to the user.
+A recommender is a system which predicts ratings a user might give to a specific item. These predictions will then be ranked and returned back to the user.
 
 Types of recommendation algorithms:-
 - Content based systems:
